@@ -1,0 +1,37 @@
+{
+    "name": "LiveFlexTreeview",
+    "title": "LiveFlex Treeview,
+    "description": "Treeview plugin that support drag & drop, persistance and custom events.",
+    "keywords": [
+        "treeview",
+        "sortable",
+        "drag",
+        "drop",
+        "tree"
+    ],
+    "version": "1",
+    "author": {
+        "name": "Fruitbatinshades",
+        "url": "https://github.com/jquery/jquery-color/blob/2.1.2/AUTHORS.txt"
+    },
+    "maintainers": [
+        {
+            "name": "Lee Davies",
+            "email": "lee@liveflex.co.uk",
+            "url": "http://www.liveflex.co.uk"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/jquery/jquery-color/blob/2.1.2/MIT-LICENSE.txt"
+        }
+    ],
+    "bugs": "https://github.com/fruitbatinshades/LiveFlexTreeview/issues",
+    "homepage": "http://www.liveflex.co.uk/Articles/jQuery-Plugins/Sortable-Treeview.aspx?Listid=1&ListingEntryID=8",
+    "docs": "http://www.liveflex.co.uk/Articles/jQuery-Plugins/Sortable-Treeview.aspx?Listid=1&ListingEntryID=8",
+    "download": "https://github.com/fruitbatinshades/LiveFlexTreeview/#",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
